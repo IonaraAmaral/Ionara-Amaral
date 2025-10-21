@@ -12,7 +12,7 @@ Acredito que qualidade vai além de encontrar falhas, é sobre contribuir para q
 
   <img  style="margin:5px;" align="center" alt="Ionara-Ts" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-  <img style="margin:5px;" align="center" alt="Ionara-React" height="40" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjtZH6pPuifyRpOBQZRtw1lylv6BTtbUredQ&usqp=CAU">
+  <img style="margin:5px;" align="center" alt="Ionara-React" height="40" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91ZD8nRjT3soQOkHY0mfAa0dFqpym9mXG2A&s">
 
   <img style="margin:5px;" align="center" alt="Ionara-React" height="30" width="80" src="https://dev.socialidnow.com/images/1/16/Postman.png">
   
